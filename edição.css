@@ -1,0 +1,39 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+body{
+    text-align: center;
+    background-color: wheat;
+}
+
+.Texto-CSS{
+    font-family: "Oswald", sans-serif;
+}
+
+.Texto-HTML{
+    font-family: "Oswald", sans-serif;
+}
+
+.Texto-JavaScript{
+    font-family: "Oswald", sans-serif;
+}
+
+
+.Titulo-JavaScript{
+    border: 5px solid black;    
+    color: yellow;
+    text-shadow: 4px 4px 10px black
+}
+
+.Titulo-HTML{
+    border: 5px solid black;
+    color: red;
+    text-shadow: 4px 4px 10px black
+}
+
+.Titulo-CSS{
+    border: 5px solid black;
+    color: blue;
+    text-shadow: 4px 4px 10px black
+}
+
